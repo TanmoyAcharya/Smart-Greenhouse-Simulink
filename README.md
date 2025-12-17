@@ -36,10 +36,8 @@ The model is organized into the following subsystems:
 - Multi-layer canopy modeling
 - Calibration with experimental data
 
-## Author
+
 Tanmoy Acharya
-
-
 
 
 ## Author
