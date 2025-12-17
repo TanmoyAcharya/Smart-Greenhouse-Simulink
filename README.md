@@ -37,8 +37,8 @@ The model is organized into the following subsystems:
 - Calibration with experimental data
 
 
-Tanmoy Acharya
+
 
 
 ## Author
-[Your Name]
+Tanmoy Acharya
